@@ -53,5 +53,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## 👤 Author
 
-- GitHub: https://github.com/suhaibadill
 - Frontend Mentor: https://www.frontendmentor.io/profile/suhaibadill
